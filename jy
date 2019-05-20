@@ -1,0 +1,5 @@
+mkdir ~/MyProject
+cd ~/MyProject
+git init
+touch Readme.txt
+git status
